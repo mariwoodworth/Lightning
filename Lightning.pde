@@ -18,6 +18,7 @@ void draw()
 		line(startX, startY, endX, endY);
 		startX = endX;
 		startY = endY;
+		System.out.println("up" + (float)(Math.random()*30));
 	}
 }
 void mousePressed()
