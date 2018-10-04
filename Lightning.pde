@@ -1,6 +1,6 @@
 //variables
-int startX = 150;
-int startY = 0;
+int startX = 250;
+int startY = 320;
 int endX = 0;
 int endY = 0;
 int rX = 42;
